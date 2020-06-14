@@ -1,0 +1,13 @@
+[user]
+	name = Codemiro Technologies
+	email = info@codemiro.com
+[color]
+	ui = true
+[github]
+	user = dvsingh9
+[push]
+	default = current
+[core]
+	excludesfile = ~/.gitignore-global
+[alias]
+	tree = log --graph --decorate --pretty=oneline --abbrev-commit
